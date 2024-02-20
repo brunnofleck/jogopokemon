@@ -2,7 +2,7 @@
 
 <p align="center">
 Projeto realizado por meio de um curso criado por Daniel Lopes. <br/>
-<a href="https://www.udemy.com/course/como-construir-um-game-pokemon-com-html-css-javascript/ ">Acesse esse curso clicando aqui.</a>
+<a href="https://www.udemy.com/course/como-construir-um-game-pokemon-com-html-css-javascript/ ">Acesse o curso clicando aqui!</a>
 </p>
 
 <p align="center">
