@@ -24,4 +24,6 @@ Projeto realizado por meio do curso "Aprenda HTML + CSS + Javascript construindo
 
 Este projeto é um jogo onde o personagem Ash procura pelos pokemons Charmander, Pikachu e Zubat.
 
+---
+
 Feito com ♥ by Brunno.
