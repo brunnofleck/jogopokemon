@@ -2,20 +2,16 @@
 
 <p align="center">
 Projeto realizado por meio do curso "Aprenda HTML + CSS + Javascript construindo um game (jogo)". <br/>
-<a href="https://www.udemy.com/course/como-construir-um-game-pokemon-com-html-css-javascript/ ">Faça esse curso clicando aqui.</a>
+<a href="https://www.udemy.com/course/como-construir-um-game-pokemon-com-html-css-javascript/ ">Acesse esse curso clicando aqui.</a>
 </p>
 
 <p align="center">
-  <img src="../assets/pokemons/teladojogo.png">
+  <img src="https://github.com/brunnofleck/jogopokemon/blob/main/telajogo.png">
 </p>
 
 <br>
 
-<p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
-</p>
-
-Esse curso trouxe apredizandos sobre:
+## Esse curso trouxe apredizandos sobre:
 
 - Bases do HTML
 - Uso seletores de CSS
@@ -24,7 +20,7 @@ Esse curso trouxe apredizandos sobre:
 - Manipular a DOM usando Javascript puro
 - Pensar lógicamente
 
-Projeto
+## Projeto
 
 Este projeto é um jogo onde o personagem Ash procura pelos pokemons Charmander, Pikachu e Zubat.
 
