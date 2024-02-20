@@ -1,7 +1,7 @@
 <h1 align="center"> Jogo Pokemon </h1>
 
 <p align="center">
-Projeto realizado por meio do curso "Aprenda HTML + CSS + Javascript construindo um game (jogo) - Criado por Daniel Lopes". <br/>
+Projeto realizado por meio de um curso criado por Daniel Lopes". <br/>
 <a href="https://www.udemy.com/course/como-construir-um-game-pokemon-com-html-css-javascript/ ">Acesse esse curso clicando aqui.</a>
 </p>
 
